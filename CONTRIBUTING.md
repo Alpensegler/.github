@@ -19,8 +19,8 @@ All code changes happen through Pull Requests. We actively welcome your pull req
 1. If you are a member of Alpensegler, clone the repo and create your branch from `master`. Or, fork the repo and create your branch from `master`.
 2. If you've added code that should be tested, add tests.
 3. If you've added code that need documentation, update the documentation.
-3. Write a [conventional commit message](https://www.conventionalcommits.org/en/v1.0.0/).
-5. Follow the template to issue a pull request.
+4. Follow the template to issue a pull request.
+5. Follow [conventional commit spec](https://www.conventionalcommits.org/en/v1.0.0/) to write the pull request title.
 
 Labels are optional but encouraged for Pull Requests.
 
